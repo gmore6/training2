@@ -75,3 +75,44 @@ git add -all
 git add --all
 git status
 git commit -m "Initial commit with README file"
+cd
+git config --global list
+git config --global --list
+git status
+git add .
+git add.
+git add all
+git add --all
+git status
+git log
+git commit -m
+git commit -m "commit"
+git status
+git log
+touch a
+git status
+git config --global
+git add .
+git status
+git commit -m
+git commit -m
+git commit -m "commit"
+git log
+git SHOW HEAD
+git show HEAD
+git show HEAD~1
+git show HEAD~3
+git show HEAD~2
+git show HEAD
+vi latest commit
+cat latest commit
+cat latest
+git status
+git add .
+git log
+git status
+git commit -m "latest commit"
+git log
+git show HEAD
+git --oneline
+git log --oneline
